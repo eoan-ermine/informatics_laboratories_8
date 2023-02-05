@@ -2,5 +2,5 @@
 	path = basics
 	url = git@github.com:PatriotRossii/informatics_laboratories_8_0.git
 [submodule "django"]
-	path = django
+	path = web
 	url = git@github.com:PatriotRossii/informatics_laboratories_8_1.git
