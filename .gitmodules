@@ -1,0 +1,6 @@
+[submodule "basics"]
+	path = basics
+	url = git@github.com:PatriotRossii/informatics_laboratories_8_0.git
+[submodule "django"]
+	path = django
+	url = git@github.com:PatriotRossii/informatics_laboratories_8_1.git
